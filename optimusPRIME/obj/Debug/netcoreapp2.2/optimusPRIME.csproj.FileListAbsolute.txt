@@ -1,0 +1,11 @@
+D:\Projects\OptimusPRIME\optimusPRIME\bin\Debug\netcoreapp2.2\optimusPRIME.deps.json
+D:\Projects\OptimusPRIME\optimusPRIME\bin\Debug\netcoreapp2.2\optimusPRIME.runtimeconfig.json
+D:\Projects\OptimusPRIME\optimusPRIME\bin\Debug\netcoreapp2.2\optimusPRIME.runtimeconfig.dev.json
+D:\Projects\OptimusPRIME\optimusPRIME\bin\Debug\netcoreapp2.2\optimusPRIME.dll
+D:\Projects\OptimusPRIME\optimusPRIME\bin\Debug\netcoreapp2.2\optimusPRIME.pdb
+D:\Projects\OptimusPRIME\optimusPRIME\obj\Debug\netcoreapp2.2\optimusPRIME.csproj.CoreCompileInputs.cache
+D:\Projects\OptimusPRIME\optimusPRIME\obj\Debug\netcoreapp2.2\optimusPRIME.AssemblyInfoInputs.cache
+D:\Projects\OptimusPRIME\optimusPRIME\obj\Debug\netcoreapp2.2\optimusPRIME.AssemblyInfo.cs
+D:\Projects\OptimusPRIME\optimusPRIME\obj\Debug\netcoreapp2.2\optimusPRIME.dll
+D:\Projects\OptimusPRIME\optimusPRIME\obj\Debug\netcoreapp2.2\optimusPRIME.pdb
+D:\Projects\OptimusPRIME\optimusPRIME\obj\Debug\netcoreapp2.2\optimusPRIME.csprojAssemblyReference.cache
